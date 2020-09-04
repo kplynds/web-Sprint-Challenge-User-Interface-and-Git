@@ -34,11 +34,20 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
 
+I would describe sementic HTML as the building blocks of a web-page. Semantic HTMl defines and creates all the components (or 'elements') of your web page.
+
 2. Name two big differences between ```display: block;``` and ```display: inline;```.
+
+1- Block creates a new line, while inline does not. 
+2- Inline only takes up as much space as necessary. Block takes up the whole width by default.
 
 3. What are the 4 areas of the box model?
 
+Content, padding, border, margin.
+
 4. While using flexbox, what axis does the following property work on: ```align-items: center```?
+
+Cross Axis.
 
 5. Explain why git is valuable to a team of developers.
 
