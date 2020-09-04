@@ -233,10 +233,18 @@ header .logo {
     display: flex;
 }
 
-#middle #middle-top #strategy, #how, #places, #collab {
+#middle #strategy, #how, #places, #collab {
     border-bottom-style: dashed;
     border-width: 2px;
     padding: 2% 0;
+}
+
+#middle #strategy, #places {
+    margin-right: 2%;
+}
+
+#middle #how, #collab {
+    margin-left: 2%;
 }
 
 #middle button {
