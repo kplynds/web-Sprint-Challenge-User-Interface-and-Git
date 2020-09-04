@@ -211,3 +211,54 @@ header .logo {
 #ten {
     background-color: dodgerblue;
 }
+
+#about-heading {
+    padding: 0 2% 2% 2%
+}
+
+#middle {
+    display: flex;
+    flex-direction: column;
+    border-top-style: dashed;
+    border-width: 1.5px;
+    padding: 2%;
+    margin-bottom: 4%;
+}
+
+#middle #middle-top {
+    display: flex;
+}
+
+#middle #middle-bottom {
+    display: flex;
+}
+
+#middle #middle-top #strategy, #how, #places, #collab {
+    border-bottom-style: dashed;
+    border-width: 2px;
+    padding: 2% 0;
+}
+
+#middle button {
+    background-color: white;
+    font-size: 1rem;
+    border-radius: 8px;
+    padding: .4rem 1.3rem;
+}
+
+#middle p {
+    padding-bottom: 4%;
+}
+
+#middle h3 {
+    padding-top: 3%;
+}
+
+#middle #middle-bottom {
+    margin-top: 5%;
+}
+
+#bottom {
+    padding-bottom: 6%;
+    padding-left: 3%;
+}
