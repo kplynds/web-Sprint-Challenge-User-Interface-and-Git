@@ -144,3 +144,70 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+header {
+    display: flex;
+    padding-top: 3%;
+}
+
+header .nav a {
+    color: black;
+    text-decoration: none;
+}
+
+header .nav {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: flex-end;
+}
+
+header .logo {
+    justify-content: flex-start;
+}
+
+.photo div {
+    padding: 5%;
+    display: flex;
+    justify-content: center;
+}
+
+#one {
+    background-color: teal;
+}
+
+#two {
+    background-color: gold;
+}
+
+#three {
+    background-color: cadetblue;
+}
+
+#four {
+    background-color: coral;
+}
+
+#five {
+    background-color: crimson;
+}
+
+#six {
+    background-color: forestgreen;
+}
+
+#seven {
+    background-color: darkorchid;
+}
+
+#eight {
+    background-color: hotpink;
+}
+
+#nine {
+    background-color: indigo;
+}
+
+#ten {
+    background-color: dodgerblue;
+}
